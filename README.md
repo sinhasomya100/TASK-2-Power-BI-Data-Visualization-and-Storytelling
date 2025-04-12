@@ -1,38 +1,72 @@
-📊 Task 2 
- 🔍 Objective:
-Create a visual storytelling dashboard using sales data to extract key business insights.
- 📈 Tools Used:
-- Power BI (Dashboard creation)
-- Superstore Dataset (or equivalent sales data)
-  
-  📊 Data Visualizations and Insights
 
-1. Monthly Sales Trend (Area Chart)
-A rising trend is observed from March to July, with a dip in August. July shows the peak — replicating July’s strategy may boost future months.
+Task 2 – Chocolate Supersales Dashboard (Power BI)
 
-2. Sales Distribution by Country (Pie Chart)
-Sales are fairly distributed among countries. India and USA contribute the highest — key targets for ads, expansion, and resource focus.
+Welcome 👋 to my Task 2 project as part of a Data Analyst Internship.
+In this task, I created an interactive and insight-rich dashboard using Power BI based on chocolate sales data. This project allowed me to practice storytelling through visuals, design clean layouts, and extract key business insights — just like a real analyst would.
 
-3. Product Category Sales (Bar Chart)
-Highlights the top-performing product categories. Helps in understanding which categories are driving the most revenue and where to focus inventory or marketing efforts.
+________________________________________
+Objective 🎯
+Build a visually compelling and interactive dashboard that helps stakeholders understand and analyze:
+1.	Total Revenue
+2.	Product & Country Performance
+3.	Monthly Sales Trends
+4.	Sales Team Insights
+5.	Quantity Sold
+________________________________________
+Tools & Technologies Used
+Power BI – for data modeling and dashboard creation
+MS Word / PDF – for summary reporting
+Chocolate Sales Dataset (CSV) – custom dataset curated for analysis
+________________________________________
+What I Created
+Power BI Dashboard (.pbix file) including:
+	KPI Cards: • Total Sales
+• Boxes Shipped
+• Avg. Sales per Box
+	Visuals: • Line Chart – Monthly Sales Trend
+• Pie Chart – Country-wise Sales
+• Bar Chart – Top Products
+• Donut/Column Chart – Sales by Salesperson
+	Slicers: • Date Range
+• Country
+• Sales Person
+Summary Report (PDF & Word) that includes:
+•	DAX formulas used
+•	Axis details for each chart
+•	Visual titles & insights
+•	Clean documentation for submission
+________________________________________
+Key Insights from the Dashboard 💡
+•	India leads in total revenue (~Rs. 1.1M)
+•	“Smooth Silky Salty” is the top-selling product
+•	Sales peaked in June (seasonal demand observed)
+•	Camilla Castle is the highest-performing salesperson
+•	Over 177K chocolate boxes were shipped
+•	Each box generates approx. Rs. 34.93 in revenue
+________________________________________
+What I Learned 📚
+•	How to choose KPIs that matter for business
+•	Importance of designing interactive dashboards
+•	How to communicate insights using visual storytelling
+•	DAX formula writing for calculated fields
+•	Delivering value through clear visuals & summaries
+________________________________________
+Files Included in My Submission
+•	Task 2 BI.pbix – Power BI dashboard
+•	Interview Q/A
+•	Chocolate_Dashboard_Summary.docx – Editable Word version
+•	README (this file) – Project walkthrough and learning
+________________________________________
+How to Explore My Work 🔍
+1.	Open the .pbix file in Power BI Desktop
+2.	Use the slicers to explore by country, sales person, or date
+3.	Refer to the PDF or Word summary for quick insights
+4.	Read this document to understand what and why I did each step
+________________________________________
+Conclusion ✅
+This task helped me improve my ability to create dashboards that are not just visually appealing but also deliver meaningful insights to decision-makers.
+I focused on keeping the layout clean, interactive, and focused on real business needs.
+Created by: Somya Sinha
 
-4. Sales by Payment Method (Donut Chart)
-Visualizes preferred payment methods (e.g., Credit Card, UPI, COD). Useful for optimizing checkout experience and targeting promotions.
-
-5. Hourly Sales Pattern (Line Chart)
-Displays customer buying behavior across different times of the day. Useful for planning peak-hour staff allocation or running time-based offers.
-
-6. Top Products by Sales (Horizontal Bar Chart)
-Lists best-selling products, which can help with targeted promotions, bundling, or ensuring stock availability.
-
-
- 🗂 Files in this Repo:
-- 📸 Power BI Dashboard Screenshots
-- 📄 Power BI source file)
-- 📘 README 
-
-
-🚀 Outcome:
-Learned effective use of Power BI for visual storytelling, identifying trends, and forming actionable insights.
 
 
