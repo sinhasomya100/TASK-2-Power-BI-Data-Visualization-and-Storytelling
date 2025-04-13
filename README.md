@@ -108,8 +108,11 @@ This task helped me improve my ability to create dashboards that are not just vi
 I focused on keeping the layout clean, interactive, and focused on real business needs.
 
 Created by: Somya Sinha
+
 I am open to any queries,discussions and questions.
+
 Thank you
+
 www.linkedin.com/in/somyasinha100
 
 
