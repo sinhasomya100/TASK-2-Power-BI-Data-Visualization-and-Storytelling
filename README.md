@@ -19,7 +19,7 @@ MS Word / PDF – for summary reporting
 Chocolate Sales Dataset (CSV) – custom dataset curated for analysis
 ________________________________________
 What I Created
-Power BI Dashboard (.pbix file) including:
+Power BI Dashboard (.pbix file), including:
 	KPI Cards: • Total Sales
 • Boxes Shipped
 • Avg. Sales per Box
@@ -59,7 +59,7 @@ Files Included in My Submission
 ________________________________________
 How to Explore My Work 🔍
 1.	Open the .pbix file in Power BI Desktop
-2.	Use the slicers to explore by country, sales person, or date
+2.	Use the slicers to explore by country, salesperson, or date
 3.	Refer to the PDF or Word summary for quick insights
 4.	Read this document to understand what and why I did each step
 ________________________________________
