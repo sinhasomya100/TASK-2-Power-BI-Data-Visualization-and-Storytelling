@@ -20,9 +20,14 @@ Chocolate Sales Dataset (CSV) – custom dataset curated for analysis
 ________________________________________
 What I Created
 Power BI Dashboard (.pbix file), including:
-	KPI Cards: • Total Sales
+	KPI Cards:
+
+• Total Sales
+
 • Boxes Shipped
+
 • Avg. Sales per Box
+
 	Visuals: • Line Chart – Monthly Sales Trend
 • Pie Chart – Country-wise Sales
 • Bar Chart – Top Products
